@@ -1,1 +1,0 @@
-out dated parin bobo ko :PPPP
