@@ -17,3 +17,8 @@ https://www.youtube.com/watch?v=wsgS6WzAfO8
 Aaron Joseph Santos
 
 Angelo Hizon
+
+## Edited by Angelo
+
+from gelo-branch nag-edit ako
+bobo mo neatbens
