@@ -2,7 +2,7 @@
 
 Hi!
 
-Anton Oliver Bondoc
+Anton Oliver Bondoc 
 
 John Angelo Algarne
 
@@ -10,3 +10,7 @@ Ralph Andrei Benitez
 
 -- added from angelo-branch
 -- bobo mo netbeans ulol
+
+Aaron Joseph Santos
+
+Angelo Hizon
